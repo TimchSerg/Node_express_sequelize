@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "phpmyadmin",
+    "password": "1111",
+    "database": "node_test",
+    "host": "localhost",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "phpmyadmin",
+    "password": "1111",
+    "database": "db_test",
+    "host": "localhost",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "phpmyadmin",
+    "password": "1111",
+    "database": "db_production",
+    "host": "localhost",
+    "port": "3306",
+    "dialect": "mysql"
+  }
+}
